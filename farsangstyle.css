@@ -1,0 +1,34 @@
+h1,
+p,
+summary,
+figcaption {
+  text-align: center;
+  padding: 10px;
+}
+
+.vaskos {
+  font-weight: bolder;
+}
+body {
+  background-image: linear-gradient(to bottom, powderblue, #facc76);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+a {
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+}
+img {
+  margin: auto;
+  width: 400px;
+  height: 400px;
+}
+table {
+  width: 50px;
+}
+
