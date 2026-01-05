@@ -1,5 +1,5 @@
 body {
-  background-color: lightgrey;
+  background: linear-gradient(to bottom, powderblue, #facc76);
 }
 * {
   box-sizing: border-box;
