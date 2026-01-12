@@ -1,0 +1,50 @@
+h1,
+p,
+summary,
+figcaption {
+  text-align: center;
+  padding: 10px;
+}
+
+.vaskos {
+  font-weight: bolder;
+}
+body {
+  background-image: linear-gradient(to bottom, powderblue, #facc76);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+img {
+  margin: auto;
+  width: 400px;
+  height: 400px;
+}
+table {
+  width: 50px;
+}
+#linkes {
+  text-align: left;
+  color: black;
+}
+
+#linkes:hover {
+  color: blue;
+}
+#kövi {
+  background-color: #d0faf0;
+  border: none;
+  color: white;
+  padding: 15px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 2px 1px;
+  cursor: pointer;
+}
